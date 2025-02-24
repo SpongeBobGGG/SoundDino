@@ -33,9 +33,9 @@ python trainModel.py
 <br>
 
 ## 用train好的model辨識聲音，並交由程式控制鍵盤上下鍵來聲控小恐龍
-```shell
-開啟網址 :joy: : https://chrome-dino-game.github.io/
 
+[先打開chrome dino](https://chrome-dino-game.github.io/)
+```shell
 python modelPredict.py
 ```
 <br>
